@@ -2,7 +2,7 @@
    I am a French developer having fun developing 
 
 ## About Me 🙋🏻‍♂️
-👨🏻‍💻 I'm using HTML/CSS, Python, JS, Java, PHP
+👨🏻‍💻 I'm using HTML/CSS, Python, JS, Java, PHP, ReactJS(Native) , VueJS 
 
 👨🏻‍🎓 I'm currently working at [Coding Factory by ESIEE-IT](https://codingfactory.fr/)
 
