@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black)
-![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react)
+![]([https://img.shields.io/badge/-ReactJs-61DAFB?logo=react](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge))
 
 ## My Stats 💻
 ![RuKaSuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuKaSuu&show_icons=true&theme=aura_dark)
